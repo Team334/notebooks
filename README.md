@@ -4,5 +4,6 @@
 
 Some jupyter notebooks for illustrating concepts.
 
+- [Jupyter notebooks tutorial](https://github.com/Team334/notebooks/blob/master/tutorial.ipynb)
 - [PID controller](https://github.com/Team334/notebooks/blob/master/PID.ipynb)
 - [OpenCV reflective tape detection with contours](https://github.com/Team334/notebooks/blob/master/cv_contours.ipynb)
